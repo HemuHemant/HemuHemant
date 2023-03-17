@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hemant-kumar-694906233?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b4zj4w5vxq%2bgip%2bfwafpeng%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemant-kumar-694906233?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b4zj4w5vxq%2bgip%2bfwafpeng%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/hemantg4rb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemantg4rb" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codersfeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codersfeed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/hemantcodersfeed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hemantcodersfeed/" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/https://leetcode.com/hemantcodersfeed/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hemantcodersfeed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

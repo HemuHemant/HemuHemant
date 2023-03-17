@@ -9,17 +9,16 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **hemantcodersfeed@gamil.com**
+- 📫 How to reach me **hemantcodersfeed@gmail.com**
 
-- 📄 Know about my experiences [Resume.pdf](Resume.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ydInsrDvvc1nTgCMsNK42bNl-ko7qFd2/view?usp=share_link](https://drive.google.com/file/d/1ydInsrDvvc1nTgCMsNK42bNl-ko7qFd2/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hemanthimans10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hemanthimans10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@hemant-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@hemant-kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/hemantg4rb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemantg4rb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hemant-kumar-694906233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemant-kumar-694906233/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/hemantg4rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hemantg4rb/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/codersfeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codersfeed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hemantcpdersfeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemantcpdersfeed" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/hemantcodersfeed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hemantcodersfeed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
